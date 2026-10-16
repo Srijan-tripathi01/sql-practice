@@ -5,8 +5,9 @@ This repo tracks my practice and notes as I go.
 
 ## What I'm Learning
 
-- [ ] SELECT, WHERE, ORDER BY
-- [ ] GROUP BY and HAVING
+- [X] SELECT, WHERE, ORDER BY
+- [X] GROUP BY and HAVING
+- [ ] Limit and Aliasing
 - [ ] Joins
 - [ ] Subqueries and CTEs
 - [ ] Window functions
