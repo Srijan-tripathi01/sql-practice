@@ -1,5 +1,7 @@
 -- JOINS
 
+-- Joins Columns from different tables
+
 select * from employee_demographics;
 select * from employee_salary;
 

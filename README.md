@@ -8,7 +8,7 @@ This repo tracks my practice and notes as I go.
 - [X] SELECT, WHERE, ORDER BY
 - [X] GROUP BY and HAVING
 - [X] Limit and Aliasing
-- [X] Joins
+- [X] Joins,Unions
 - [ ] Subqueries and CTEs
 - [ ] Window functions
 
