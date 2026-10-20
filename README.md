@@ -9,7 +9,7 @@ This repo tracks my practice and notes as I go.
 - [X] GROUP BY and HAVING
 - [X] Limit and Aliasing
 - [X] Joins,Unions
-- [X] String Functions
+- [X] String Functions,Case Statement
 - [ ] Subqueries and CTEs
 - [ ] Window functions
 
