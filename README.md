@@ -14,7 +14,7 @@ This repo tracks my practice and notes as I go.
 - [X] Window functions
 - [X] Temporary table
 - [X] Stored Procedure
-- [ ] Trigger and Events
+- [X] Trigger and Events
 
 ## Resources I'm Using
 
