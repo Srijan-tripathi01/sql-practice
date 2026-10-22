@@ -13,7 +13,7 @@ This repo tracks my practice and notes as I go.
 - [X] Subqueries and CTEs
 - [X] Window functions
 - [X] Temporary table
-- [ ] Stored Procedure
+- [X] Stored Procedure
 - [ ] Trigger and Events
 
 ## Resources I'm Using
