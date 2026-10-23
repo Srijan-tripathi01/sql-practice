@@ -15,6 +15,7 @@ This repo tracks my practice and notes as I go.
 - [X] Temporary table
 - [X] Stored Procedure
 - [X] Trigger and Events
+- [ ]Project 1 : Data cleaning in Sql
 
 ## Resources I'm Using
 
