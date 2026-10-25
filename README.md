@@ -16,6 +16,7 @@ This repo tracks my practice and notes as I go.
 - [X] Stored Procedure
 - [X] Trigger and Events
 - [X]Project 1 : Data cleaning in Sql
+- [ ]Explotary Data Analysis
 
 ## Resources I'm Using
 
